@@ -1,3 +1,4 @@
+#include "middle.h"
 int itc_covert_num(long long number,int ss){
 int itog=0;
 int g = 1;
